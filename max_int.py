@@ -1,3 +1,4 @@
 num_int = int(input("Input a number: "))
 
-#adshflaædsfa
+if num_int < 0:
+    
